@@ -1,7 +1,7 @@
 # KASANE ROVER PROJECT
 > This is an offshoot of NASA's Open Source Rover Project that includes modifications to make the hardware come together better and to include upgrades down the line.
 
-*proper photo coming soon*
+  ![Kasane Rover driving](rover-hero.jpg)
 
 ## Motivation
 Many of the instructions in the original project are a little unclear or give results that just barely work (if at all). The Kasane Rover will fix this. Additionally, the original project is meant to be expanded upon, which this project will do.
