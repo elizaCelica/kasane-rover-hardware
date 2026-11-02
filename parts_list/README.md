@@ -151,7 +151,34 @@ Cost to build this assembly: $93.33
 
 ## Extra Parts
 
-These parts you may either already have, depend on where you're located for a good deal, depend on personal preference, or are optional. If you do not have any of these, you'll need to add around $500 to the total project cost.
+These parts you may either already have, depend on where you're located for a good deal, depend on personal preference, or are optional. They are **not** included in the total above, and together they can add over $1,000 to the project. See the estimate below.
+
+### Realistic total cost
+
+The total above covers the parts every build needs from goBILDA and DigiKey. A complete build needs more. The example prices below come from one US build in 2026 (sources varied, so treat them as a guide, not a quote). Prices are before tax and shipping.
+
+| Group | What | Example price | Notes |
+|---|---|---|---|
+| **Parts list above** | goBILDA + DigiKey | ~$1,690 | 15% goBILDA educational discount if eligible |
+| **Required extras** | Raspberry Pi 5 (+ microSD card) | $80–165 | depends on RAM size and whether you buy a kit |
+| | 3x Roboclaw 2x7A motor controllers | ~$240 | |
+| | 12V and 5V voltage regulators (Pololu) | ~$60–100 | |
+| | INA260 power monitor + PCA9685 servo driver | ~$25 | |
+| | PCBs (brain + motor board, JLCPCB) | ~$40 | incl. shipping; minimum order quantity applies |
+| | Body plates | ~$120 | laser-cut acrylic or similar; much less at a makerspace |
+| | 4S LiPo battery (4000mAh+) | ~$60–90 | |
+| | LiPo balance charger | ~$30–55 | must support balance charging |
+| | Battery adapter (e.g. XT60 to XT30) | ~$10 | depends on the battery's connector |
+| | Wiring and connectors | ~$130–280 | wire spools, XT30, JST, DuPont, Molex, bullet connectors, heat shrink, sleeving, Pi ribbon cable, USB-C power cable, standoff kit. Expect to buy extras: crimps fail |
+| | Solder, flux, tape, threadlocker | ~$50 | |
+| **Recommended** | Gamepad | ~$40–75 | |
+| | Fireproof LiPo bag, battery voltage checker | ~$20 | |
+| | DC power meter display | ~$17 | |
+| | Spare battery | ~$45–90 | |
+| **Tools, if you don't have them** | Soldering iron, crimper, wire stripper, multimeter, nut driver / sockets, flush cutters, heat gun, hex keys, soldering mat | ~$150–300 | |
+
+Rough total: **~$2,500–2,900** for the rover and its required extras, plus **~$150–300** for tools if you're starting from scratch, plus tax and shipping (budget another 10–15%).
+
 
 **Note**: Make sure to go through the list below to make sure you have everything you need.
 
